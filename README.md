@@ -1,4 +1,4 @@
-# MERN Chat Application
+o# MERN Chat Application
 
 A real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js) featuring authentication, real-time messaging with Socket.io, and a modern UI.
 
@@ -139,7 +139,3 @@ npm start
 |---------|------|-----|
 | Frontend (Vite) | 5173 | http://localhost:5173 |
 | Backend (Express) | 5000 | http://localhost:5000 |
-
-## License
-
-MIT License — © 2024 Burak
